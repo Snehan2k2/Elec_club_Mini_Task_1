@@ -1,4 +1,5 @@
 Automatic Dustbin:
+
   The requirements are Arduino board, Ultrasonic distance sensor and a servo motor.
   So, the waste material is shown in front of the dustbin, wherein there is an Ultrasonic sensor.
   So, this sensor detects the material, and as per the Arduino code, the servo motor whose blades are placed on the pedal of the dustbin    
