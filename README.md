@@ -1,9 +1,5 @@
 # Task1
-1.Automatic Dustbin:
-  The requirements are Arduino board, Ultrasonic distance sensor and a servo motor.
-  So, the waste material is shown in front of the dustbin, wherein there is an Ultrasonic sensor.
-  So, this sensor detects the material, and as per the Arduino code, the servo motor whose blades are placed on the pedal of the dustbin gets rotated, hence making the lid open.
-  After sometime, the lid gets closed, when the code moves the servo accordingly.
+
   
 2.Arduino Color Sorter:
   The Mechanical model of the Sorter is:
@@ -57,4 +53,4 @@
   Per se, int secretCode[maximumKnocks] = {100, 100, 55, 55, 100, 100, 100, 50, 40, 50, 30};
   then, this is the default knock that it recognizes when you turn it on.
   
-8.
+
