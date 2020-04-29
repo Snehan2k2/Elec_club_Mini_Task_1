@@ -14,6 +14,6 @@ Water Level Controller:
   The requirements are Arduino, LCD display, Buzzer, diode, transistors and a relay.
   
   The circuit is:
-  http://www.circuitstoday.com/wp-content/uploads/2014/10/water-level-controller-arduino.png.
+  ![](http://www.circuitstoday.com/wp-content/uploads/2014/10/water-level-controller-arduino.png)
   
   Digital pin 7 of the Arduino controls the buzzer and digital pin 8 controls the motor.
