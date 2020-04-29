@@ -4,7 +4,8 @@ Watch your fridge:
   
   The requirements are ESP-01, door magnetic sensor and a LED.
   
-  The circuit diagram is: https://hackster.imgix.net/uploads/attachments/1105238/diagrama_ingles_JVffclxr1h.png
+  The circuit diagram is: 
+  ![](https://hackster.imgix.net/uploads/attachments/1105238/diagrama_ingles_JVffclxr1h.png)
   
   The device is based in the ESP-01 which is able to connect via wifi to an Internet network. 
   
