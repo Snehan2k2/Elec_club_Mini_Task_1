@@ -14,7 +14,7 @@ I2C communication between STM32 and Arduino:
   
   SCL: A5 pin
   
-  The ciruit is:
+  The circuit is:
   https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Circuit-Diagram-for-using-I2C-Communication-in-STM32-Microcontroller.png
   
   When we press the push button at Master STM32, the LED connected to Slave Ardiono turns ON.
