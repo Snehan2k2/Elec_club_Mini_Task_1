@@ -1,7 +1,7 @@
 Arduino DC motor control using L298N:
   
   The circuit is:
-  https://howtomechatronics.com/wp-content/uploads/2017/08/Arduino-Robot-Car-Control-using-L298N-Driver-Circuit-Schematic.png
+  ![](https://howtomechatronics.com/wp-content/uploads/2017/08/Arduino-Robot-Car-Control-using-L298N-Driver-Circuit-Schematic.png)
   
   We can control the speed of the motor, with the help of PWM signals from the Arduino.
   
