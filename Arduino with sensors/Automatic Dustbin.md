@@ -10,4 +10,4 @@ Automatic Dustbin:
   
   The Arduino board looks like:
   
-  ![](https://i.gifer.com/7yoC.gif)
+  <a href="https://i.gifer.com/7yoC.gif"><\a>
