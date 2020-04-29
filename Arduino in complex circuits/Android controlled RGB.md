@@ -1,7 +1,7 @@
 Android controlled RGB using Arduino:
   
   The circuit is:
-  https://hackster.imgix.net/uploads/attachments/1107823/_ajyeCFDKkf.blob?auto=compress%2Cformat&w=900&h=675&fit=min
+  ![CIRCUIT](https://hackster.imgix.net/uploads/attachments/1107823/_ajyeCFDKkf.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
   
   The major hardware components are Arduino, HC-05 Bluetooth module, LED strips and MOSFETs.
   
