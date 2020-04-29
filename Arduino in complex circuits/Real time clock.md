@@ -1,7 +1,7 @@
 Arduino Real time clock:
   
   The circuit is:
-  https://www.electronicshub.org/wp-content/uploads/2018/01/Arduino-Real-Time-Clock-DS1307-Tutorial-Circuit-3.png
+  ![](https://www.electronicshub.org/wp-content/uploads/2018/01/Arduino-Real-Time-Clock-DS1307-Tutorial-Circuit-3.png)
   
   The requirements are Arduino board, DS1307 RTC and a LCD display.
   
