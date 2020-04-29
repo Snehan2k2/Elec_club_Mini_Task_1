@@ -3,7 +3,7 @@ Automated Driveway Gate:
   The requirements are linear actuators, ESP8266 D1-MINI, Motor driver and Linear regulator(7805).
   
   The motor driver is:
-  https://hackster.imgix.net/uploads/attachments/1109798/71mdteiyb-l__ac_sl1500__L9IibsffzN.jpg?auto=compress%2Cformat&w=740&h=555&fit=max
+  ![](https://hackster.imgix.net/uploads/attachments/1109798/71mdteiyb-l__ac_sl1500__L9IibsffzN.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
   
   PWM does not have to be connected. The linear actuators to the black screw terminals.
   
