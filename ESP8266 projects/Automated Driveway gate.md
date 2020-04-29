@@ -16,5 +16,5 @@ Automated Driveway Gate:
   Adafruit uploads car data and receives gate data from Adafruit. The Adafruit option is mainly for integrating IFTTT. You can also add Clicksend for integrating sms.
   
   The circuit diagram is:
-  ![](file:///C:/Users/Snehan%20Jayakumar/Downloads/schematic_driveway_gate_schematic_2020-04-26_09-37-34_HhXLnmzLOS%20(1).pdf).
+  ![](C:\Users\Snehan Jayakumar\OneDrive\Pictures\Screenshots\2020-04-29.png)
   
