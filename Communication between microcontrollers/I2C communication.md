@@ -3,11 +3,15 @@ I2C communication between STM32 and Arduino:
   Comparing I2C (Inter Integrated Circuits) in STM32F103C8 Blue Pill board with Arduino Uno, then we will see that Arduino has ATMEGA328 microcontroller in it, and STM32F103C8 has ARM Cortex- M3 in it. STM32 has Two I2C bus while Arduino Uno only has one I2C bus and STM32 is faster than Arduino.
   
   I2C pins in STM32 are:
+  
   SDA (serial data):  PB7 or PB9, PB11
+  
   SCL (serial clock):  PB6 or PB8, PB10
   
   I2C pins in Arduino are:
+  
   SDA: A4 pin
+  
   SCL: A5 pin
   
   The ciruit is:
