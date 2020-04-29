@@ -1,7 +1,7 @@
 Digital Dice Using 8051 Microcontroller (AT89C51):
   
   The circuit is:
-  https://b3van8qm1o7ou9d3b48qdhsg-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Circuit-Diagram-of-Digital-dice-using-8051-microcontroller-AT89C51.gif
+  ![](https://b3van8qm1o7ou9d3b48qdhsg-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Circuit-Diagram-of-Digital-dice-using-8051-microcontroller-AT89C51.gif)
   
   The circuit can be divided into two units: the microcontroller unit and the seven segment unit. 
   
