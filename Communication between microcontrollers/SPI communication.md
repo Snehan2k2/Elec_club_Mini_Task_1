@@ -3,7 +3,7 @@ SPI communication between Arduino and STM32:
   Comparing SPI bus in Arduino & STM32F103C8 Blue Pill board, STM32 has 2 SPI bus in it while Arduino Uno has one SPI bus. Arduino Uno has ATMEGA328 microcontroller in it, and STM32F103C8 has ARM Cortex- M3.
   
   The circuit is:
-  ![](https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Circuir-Diagram-for-SPI-Communication-in-STM32-Microcontroller.png)
+  ![](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Circuir-Diagram-for-SPI-Communication-in-STM32-Microcontroller.png)
   
   The same <SPI.h> library is used in programming STM32F103C8.
   
