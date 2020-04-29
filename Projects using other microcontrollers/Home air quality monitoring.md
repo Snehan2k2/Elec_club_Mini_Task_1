@@ -1,7 +1,7 @@
 Home Air Quality Monitoring System Project:
 
   The block diagram:
-  https://nevonprojects.com/wp-content/uploads/2018/12/Air-Quality-Monitoring-System-Project.png
+  ![](https://nevonprojects.com/wp-content/uploads/2018/12/Air-Quality-Monitoring-System-Project.png)
   
   This air quality detector not only measures the Carbon Dioxide (CO2) level in the air, but also measures the level of humidity and temperature both inside the room and outside environment.
   
