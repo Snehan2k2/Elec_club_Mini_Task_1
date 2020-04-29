@@ -1,7 +1,7 @@
 Music reactive LED strip:
 
   The circuit is:
-  https://hackster.imgix.net/uploads/attachments/1094454/_mkgmIqMPCa.blob?auto=compress%2Cformat&w=900&h=675&fit=min
+  ![](https://hackster.imgix.net/uploads/attachments/1094454/_mkgmIqMPCa.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
   
   The important hardware components are:
   Arduino, sound sensors, transistors, MOSFET and screw terminals.
