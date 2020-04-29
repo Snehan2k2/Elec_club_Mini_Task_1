@@ -8,6 +8,3 @@ Automatic Dustbin:
   
   After sometime, the lid gets closed, when the code moves the servo accordingly.
   
-  The Arduino board looks like:
-  
-  <a href="https://i.gifer.com/7yoC.gif"><\a>
