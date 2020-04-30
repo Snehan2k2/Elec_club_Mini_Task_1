@@ -10,6 +10,8 @@ IoT weather reporting system:
   The major components are:
   LCD display, ESP-8266 WiFi-module, humidity sensor (which gives temperature and humidity), Range sensor (which measures rain in mm/hour) and Atmega microcontroller.
   
+  ![](https://static.ctvnews.ca/civt/WSI/300_bc_7day.gif?ver=a)
+  
  
   
   
