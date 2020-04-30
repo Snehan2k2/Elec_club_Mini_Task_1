@@ -9,4 +9,6 @@ Arduino Real time clock:
   
   In order to upload the data and time into the DS1307 RTC IC, we have used a feature available in the RTClib library, where the Arduino will upload the date and time from the computer while uploading the code. 
   
-  Also, the RTC Module DS1307 is backed with a battery, it will continue to maintain time even in the event of power fail.  
+  Also, the RTC Module DS1307 is backed with a battery, it will continue to maintain time even in the event of power fail.  )
+  
+  ![](https://media2.giphy.com/media/3o6ZtgDOEj7K8EYFEc/source.gif)
