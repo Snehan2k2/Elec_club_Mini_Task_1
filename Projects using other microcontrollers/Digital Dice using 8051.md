@@ -9,4 +9,6 @@ Digital Dice Using 8051 Microcontroller (AT89C51):
   
   This circuit displays the numbers from 1 to 6 continuously and it halts at the position user wants and starts again from the same position with the next instruction of the user.
   
+  ![](https://media0.giphy.com/media/3oGRFlpAW4sIHA02NW/giphy.gif)
+  
   
